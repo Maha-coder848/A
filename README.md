@@ -5,13 +5,29 @@ bbdshjnghddfd  -----------------------------------------------------------------
 created by a mahalakshmi
 <<<<<<< HEAD
  Hello all
+<<<<<<< HEAD
  updated 
 =======
  
+=======
+ updated
+>>>>>>> eb14abe (Added proper README.md file)
+  
+
+
+
+  Hello All 
+  just edit your updates
 
 
 
 
-
+<<<<<<< HEAD
  hello everyone
 >>>>>>> 8fc73b0 (Update from B)
+=======
+
+
+ Hello world
+ this is the updated file
+>>>>>>> eb14abe (Added proper README.md file)
